@@ -19,6 +19,18 @@
 
 > **Lưu ý y tế:** AI chỉ đưa ra gợi ý sơ bộ, không thay thế chẩn đoán hoặc chỉ định của bác sĩ. Khi có dấu hiệu nặng, hãy gọi cấp cứu **115** hoặc đến cơ sở y tế ngay.
 
+## Hình ảnh sản phẩm
+
+<p align="center">
+  <img src="docs/assets/readme/medisign-web-ui.png" alt="Giao diện web tiếng Việt của MediSign AI" width="900" />
+</p>
+<p align="center"><em>Trải nghiệm web tiếng Việt cho hướng dẫn triệu chứng và hỗ trợ sức khỏe dễ tiếp cận.</em></p>
+
+<p align="center">
+  <img src="docs/assets/readme/medisign-care-workflow.gif" alt="Minh họa quy trình từ triệu chứng đến chăm sóc của MediSign AI" width="800" />
+</p>
+<p align="center"><em>Minh họa luồng triệu chứng → phân tích → chăm sóc trong trải nghiệm web; đây không phải demo chẩn đoán lâm sàng.</em></p>
+
 ---
 
 ## Mục lục

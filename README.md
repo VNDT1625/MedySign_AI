@@ -20,6 +20,18 @@ MediSign AI is a web-and-mobile health assistance platform for Vietnamese users,
 > [!CAUTION]
 > MediSign AI provides preliminary decision support only. It does not replace medical diagnosis, professional advice, or treatment. In an emergency in Vietnam, call **115** or go to the nearest medical facility.
 
+## Product preview
+
+<p align="center">
+  <img src="docs/assets/readme/medisign-web-ui.png" alt="MediSign AI Vietnamese web interface" width="900" />
+</p>
+<p align="center"><em>Vietnamese web experience for symptom guidance and accessible health assistance.</em></p>
+
+<p align="center">
+  <img src="docs/assets/readme/medisign-care-workflow.gif" alt="Illustrated MediSign AI symptom-to-care workflow" width="800" />
+</p>
+<p align="center"><em>Illustrated symptom-to-analysis-to-care sequence used by the web experience; it is not a clinical diagnostic demonstration.</em></p>
+
 ## Core capabilities
 
 - **Symptom triage** — classifies requests into Green, Yellow, or Red urgency levels through deterministic safety rules and an optional AI path.
