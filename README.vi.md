@@ -21,23 +21,29 @@
 
 ## Hình ảnh sản phẩm
 
+### Phase 1 — Giao diện ban đầu
+
 <p align="center">
-  <img src="docs/assets/readme/medisign-landing.gif" alt="Trang đầu tiếng Việt của MediSign AI" width="900" />
+  <img src="docs/assets/readme/medisign-landing.jpg" alt="Trang đầu tiếng Việt của MediSign AI" width="900" />
 </p>
-<p align="center"><em>Điểm vào Vietnamese-first cho hướng dẫn triệu chứng, voice interaction và hỗ trợ sức khỏe dễ tiếp cận.</em></p>
+<p align="center"><em>Ảnh tĩnh ổn định theo đúng layout 16:10 của điểm vào Vietnamese-first.</em></p>
+
+### Phase 2 — Luồng tư vấn chính
 
 <p align="center">
   <img src="docs/assets/readme/medisign-health-chat.gif" alt="Health chat ba cột và consultation summary của MediSign AI" width="900" />
 </p>
-<p align="center"><em>Consultation workspace ba cột với triệu chứng giả lập, đánh giá sơ bộ và next-step prompt có grounding.</em></p>
+<p align="center"><em>Nhập triệu chứng giả lập → trạng thái xử lý → phản hồi sơ bộ hoàn chỉnh kèm hướng dẫn an toàn.</em></p>
+
+### Phase 3 — RAG grounding và evaluation
 
 <p align="center">
-  <img src="docs/assets/readme/medisign-sign-mode.gif" alt="Chế độ ngôn ngữ ký hiệu Việt của MediSign AI" width="900" />
+  <img src="docs/assets/readme/medisign-rag-evidence.gif" alt="RAG grounding và evaluation evidence của MediSign AI" width="900" />
 </p>
-<p align="center"><em>Accessibility control chuyển cả đầu vào người dùng và đầu ra AI sang chế độ ngôn ngữ ký hiệu Việt.</em></p>
+<p align="center"><em>Evidence view thể hiện 128.380 document chunks, Top-K retrieval và evaluation agreement cải thiện từ 60% lên 90%.</em></p>
 
 > [!NOTE]
-> Bản ghi dùng đúng layout desktop 16:10 của web và dữ liệu demo không nhạy cảm. Nội dung chỉ minh họa product workflow, không phải chẩn đoán lâm sàng.
+> Bản ghi dùng đúng layout desktop 16:10. Phase 2 dùng mock response xác định và không nhạy cảm; Phase 3 trực quan hóa benchmark đã được ghi nhận trong repository, không phải kết quả chẩn đoán trực tiếp.
 
 ---
 

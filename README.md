@@ -22,23 +22,29 @@ MediSign AI is a web-and-mobile health assistance platform for Vietnamese users,
 
 ## Product preview
 
+### Phase 1 — Initial interface
+
 <p align="center">
-  <img src="docs/assets/readme/medisign-landing.gif" alt="MediSign AI Vietnamese landing page" width="900" />
+  <img src="docs/assets/readme/medisign-landing.jpg" alt="MediSign AI Vietnamese landing page" width="900" />
 </p>
-<p align="center"><em>Vietnamese-first entry point for symptom guidance, voice interaction, and accessible health assistance.</em></p>
+<p align="center"><em>A stable native 16:10 capture of the Vietnamese-first entry point.</em></p>
+
+### Phase 2 — Core consultation flow
 
 <p align="center">
   <img src="docs/assets/readme/medisign-health-chat.gif" alt="MediSign AI three-column health chat and consultation summary" width="900" />
 </p>
-<p align="center"><em>Three-column consultation workspace with synthetic symptom input, preliminary assessment, and grounded next-step prompts.</em></p>
+<p align="center"><em>Synthetic symptom input → processing state → complete preliminary response with safety guidance.</em></p>
+
+### Phase 3 — RAG grounding and evaluation
 
 <p align="center">
-  <img src="docs/assets/readme/medisign-sign-mode.gif" alt="MediSign AI Vietnamese Sign Language mode" width="900" />
+  <img src="docs/assets/readme/medisign-rag-evidence.gif" alt="MediSign AI RAG grounding and evaluation evidence" width="900" />
 </p>
-<p align="center"><em>Accessibility controls switch both user input and AI output to Vietnamese Sign Language mode.</em></p>
+<p align="center"><em>Evidence view visualizing 128,380 indexed document chunks, Top-K retrieval, and evaluation agreement improving from 60% to 90%.</em></p>
 
 > [!NOTE]
-> Captured at the web application's native 16:10 desktop layout with seeded, non-sensitive demonstration data. The content shown is a product workflow, not a clinical diagnosis.
+> Captured at the web application's native 16:10 desktop layout. Phase 2 uses a deterministic, non-sensitive mock response; Phase 3 visualizes the documented repository benchmark rather than presenting a live clinical result.
 
 ## Core capabilities
 
