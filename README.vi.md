@@ -22,14 +22,22 @@
 ## Hình ảnh sản phẩm
 
 <p align="center">
-  <img src="docs/assets/readme/medisign-web-ui.png" alt="Giao diện web tiếng Việt của MediSign AI" width="900" />
+  <img src="docs/assets/readme/medisign-landing.gif" alt="Trang đầu tiếng Việt của MediSign AI" width="900" />
 </p>
-<p align="center"><em>Trải nghiệm web tiếng Việt cho hướng dẫn triệu chứng và hỗ trợ sức khỏe dễ tiếp cận.</em></p>
+<p align="center"><em>Điểm vào Vietnamese-first cho hướng dẫn triệu chứng, voice interaction và hỗ trợ sức khỏe dễ tiếp cận.</em></p>
 
 <p align="center">
-  <img src="docs/assets/readme/medisign-care-workflow.gif" alt="Minh họa quy trình từ triệu chứng đến chăm sóc của MediSign AI" width="800" />
+  <img src="docs/assets/readme/medisign-health-chat.gif" alt="Health chat ba cột và consultation summary của MediSign AI" width="900" />
 </p>
-<p align="center"><em>Minh họa luồng triệu chứng → phân tích → chăm sóc trong trải nghiệm web; đây không phải demo chẩn đoán lâm sàng.</em></p>
+<p align="center"><em>Consultation workspace ba cột với triệu chứng giả lập, đánh giá sơ bộ và next-step prompt có grounding.</em></p>
+
+<p align="center">
+  <img src="docs/assets/readme/medisign-sign-mode.gif" alt="Chế độ ngôn ngữ ký hiệu Việt của MediSign AI" width="900" />
+</p>
+<p align="center"><em>Accessibility control chuyển cả đầu vào người dùng và đầu ra AI sang chế độ ngôn ngữ ký hiệu Việt.</em></p>
+
+> [!NOTE]
+> Bản ghi dùng đúng layout desktop 16:10 của web và dữ liệu demo không nhạy cảm. Nội dung chỉ minh họa product workflow, không phải chẩn đoán lâm sàng.
 
 ---
 

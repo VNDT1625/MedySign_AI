@@ -23,14 +23,22 @@ MediSign AI is a web-and-mobile health assistance platform for Vietnamese users,
 ## Product preview
 
 <p align="center">
-  <img src="docs/assets/readme/medisign-web-ui.png" alt="MediSign AI Vietnamese web interface" width="900" />
+  <img src="docs/assets/readme/medisign-landing.gif" alt="MediSign AI Vietnamese landing page" width="900" />
 </p>
-<p align="center"><em>Vietnamese web experience for symptom guidance and accessible health assistance.</em></p>
+<p align="center"><em>Vietnamese-first entry point for symptom guidance, voice interaction, and accessible health assistance.</em></p>
 
 <p align="center">
-  <img src="docs/assets/readme/medisign-care-workflow.gif" alt="Illustrated MediSign AI symptom-to-care workflow" width="800" />
+  <img src="docs/assets/readme/medisign-health-chat.gif" alt="MediSign AI three-column health chat and consultation summary" width="900" />
 </p>
-<p align="center"><em>Illustrated symptom-to-analysis-to-care sequence used by the web experience; it is not a clinical diagnostic demonstration.</em></p>
+<p align="center"><em>Three-column consultation workspace with synthetic symptom input, preliminary assessment, and grounded next-step prompts.</em></p>
+
+<p align="center">
+  <img src="docs/assets/readme/medisign-sign-mode.gif" alt="MediSign AI Vietnamese Sign Language mode" width="900" />
+</p>
+<p align="center"><em>Accessibility controls switch both user input and AI output to Vietnamese Sign Language mode.</em></p>
+
+> [!NOTE]
+> Captured at the web application's native 16:10 desktop layout with seeded, non-sensitive demonstration data. The content shown is a product workflow, not a clinical diagnosis.
 
 ## Core capabilities
 
